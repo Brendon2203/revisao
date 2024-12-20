@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../desafio"
+		},
+		{
+			"path": "../../udemy aula"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "revisao"
+	}
+}

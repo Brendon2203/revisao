@@ -1,0 +1,29 @@
+{
+  "produto": [
+    {
+      "id": "1",
+      "nome": "notebook 1"
+    },
+    {
+      "id": "2",
+      "nome": "notebook 2"
+    }
+  ],
+  "cliente": [
+    {
+      "id": "1",
+      "nome": "maria",
+      "telefone": "9999999"
+    },
+    {
+      "id": "b483",
+      "nome": "beto silva",
+      "telefone": "88888888"
+    },
+    {
+      "id": "04dd",
+      "nome": "carlos sousa",
+      "telefone": "77777777"
+    }
+  ]
+}

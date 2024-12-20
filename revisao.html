@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aula 01</title>
+</head>
+<body>
+    
+    <header>
+        <h1>Menu mobile</h1>
+    </header>
+    
+    <style>
+        body{
+            color: #fff;
+            background-color: green;
+        }
+        header{
+            display: none;
+        }
+        @media screen and (max-width: 350px){
+            header{
+                color: #fff;
+                background-color: red;
+            }
+        }
+
+        @media screen and (max-width: 500px){
+            header{
+                color: #000;
+                display: flex;
+                background-color: yellow;
+            }
+            body{
+                background-color: #000;
+            }
+        }
+    </style>
+
+</body>
+</html>
